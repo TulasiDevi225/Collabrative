@@ -9,6 +9,3 @@
 
 
 ## OUTPUT ##
-<img width="587" height="1016" alt="Image" src="https://github.com/user-attachments/assets/66a58a5e-1e48-4bc1-a558-7fadaa90905c" />
-
-<img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f4e954e7-71dc-4e71-911d-3ba5d1afdf53" />
